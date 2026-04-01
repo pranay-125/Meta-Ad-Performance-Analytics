@@ -28,25 +28,33 @@ Budget utilization and ROI
 Without analytics, decision-making relied mostly on intuition rather than data.
 
 <p align="center">
-<img width="845" height="666" alt="Screenshot 2026-04-01 172718" src="https://github.com/user-attachments/assets/c39293db-29f2-4e9b-ba6d-7e8df3a53cfe" />
+<img width="920" height="703" alt="Screenshot 2026-04-01 175354" src="https://github.com/user-attachments/assets/3415a3f8-158b-4f17-a5ed-16b2ddee8641" />
+</p>
+
+<p align="center">
+  <img width="637" height="796" alt="Screenshot 2026-04-01 175420" src="https://github.com/user-attachments/assets/0c0edff2-0d7d-4d19-8d97-751490d4a461" />
 </p>
 <p align="center">
-<img width="648" height="847" alt="Screenshot 2026-04-01 172743" src="https://github.com/user-attachments/assets/8f27ee33-d337-402d-bc26-20b516f3d6d4" />
+  <img width="185" height="379" alt="Screenshot 2026-04-01 175617" src="https://github.com/user-attachments/assets/bc8e0334-dde2-49e1-8228-98a9eca7e954" />
+</p>
+
+<p align="center">
+<img width="828" height="888" alt="Screenshot 2026-04-01 175645" src="https://github.com/user-attachments/assets/66043020-87af-4645-b752-9be89809f30d" />
+</p>
+
+<p align="center">
+  <img width="439" height="451" alt="Screenshot 2026-04-01 175706" src="https://github.com/user-attachments/assets/7834c021-f65f-4456-a0a6-6a835e05292e" />
+</p>
+
+<p align="center">
+  <img width="537" height="789" alt="Screenshot 2026-04-01 175729" src="https://github.com/user-attachments/assets/8278fe4e-62d4-4c52-a3dc-babc656687a9" />
 </p>
 <p align="center">
-<img width="161" height="173" alt="Screenshot 2026-04-01 172935" src="https://github.com/user-attachments/assets/5228c15e-fa15-467e-9e37-3b36f4f73cec" />
+  <img width="446" height="426" alt="Screenshot 2026-04-01 175750" src="https://github.com/user-attachments/assets/a8944732-aed3-4a66-b192-d9a8c9b2b296" />
 </p>
+
 <p align="center">
-<img width="439" height="479" alt="Screenshot 2026-04-01 173005" src="https://github.com/user-attachments/assets/cead7f7d-0116-4c79-b88a-d77d9e871080" />
-</p>
-<p align="center">
-<img width="348" height="819" alt="Screenshot 2026-04-01 173042" src="https://github.com/user-attachments/assets/545d1a70-8824-4fbf-9b82-d7968e37833f" />
-</p>
-<p align="center">
-<img width="400" height="512" alt="Screenshot 2026-04-01 173119" src="https://github.com/user-attachments/assets/e658c222-5aaa-48bf-8eaf-b3b308758d28" />
-</p>
-<p align="center">
-<img width="439" height="471" alt="Screenshot 2026-04-01 173155" src="https://github.com/user-attachments/assets/37680acb-3400-4dba-8161-5c02da2c8f2b" />
+
 </p>
 
 👨‍💻 Author
