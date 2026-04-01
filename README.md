@@ -34,10 +34,11 @@ Without analytics, decision-making relied mostly on intuition rather than data.
 <p align="center">
   <img width="637" height="796" alt="Screenshot 2026-04-01 175420" src="https://github.com/user-attachments/assets/0c0edff2-0d7d-4d19-8d97-751490d4a461" />
 </p>
+
 <p align="center">
   <img width="185" height="379" alt="Screenshot 2026-04-01 175617" src="https://github.com/user-attachments/assets/bc8e0334-dde2-49e1-8228-98a9eca7e954" />
 </p>
-
+<p>🔗 Table Relationships </p>
 <p align="center">
 <img width="828" height="888" alt="Screenshot 2026-04-01 175645" src="https://github.com/user-attachments/assets/66043020-87af-4645-b752-9be89809f30d" />
 </p>
@@ -53,8 +54,9 @@ Without analytics, decision-making relied mostly on intuition rather than data.
   <img width="446" height="426" alt="Screenshot 2026-04-01 175750" src="https://github.com/user-attachments/assets/a8944732-aed3-4a66-b192-d9a8c9b2b296" />
 </p>
 
+<p>📁 Repository Structure</p>
 <p align="center">
-
+<img width="518" height="655" alt="Screenshot 2026-04-01 181029" src="https://github.com/user-attachments/assets/9733a00c-c66f-4451-9042-3bf8fc239b85" />
 </p>
 
 👨‍💻 Author
