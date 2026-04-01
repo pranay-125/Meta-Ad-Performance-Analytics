@@ -1,9 +1,9 @@
-# 📊 Meta Ad Performance Analysis
+📊 Meta Ad Performance Analysis
 Facebook & Instagram Marketing Analytics Project
 
 An end-to-end Data Analytics project focused on analyzing the performance of Facebook and Instagram paid advertisements using event-level marketing data.
 
-The project demonstrates how a Data Analyst converts raw marketing data into actionable business insights using Power BI, Excel, SQL, Data Modeling, and DAX.
+This project demonstrates how a Data Analyst transforms raw marketing data into actionable business insights using Power BI, Excel, SQL, Data Modeling, and DAX.
 
 📌 Project Objective
 
@@ -14,7 +14,7 @@ Which audience segments respond the most
 Which ad formats generate higher engagement
 Where conversion drop-offs occur in the marketing funnel
 
-This project aims to build a data-driven dashboard to help stakeholders make better marketing and budget decisions.
+This project builds a data-driven dashboard to help stakeholders make better marketing and budget decisions.
 
 🧠 Business Problem
 
@@ -56,7 +56,7 @@ ad_events
 
 Stores all user interactions with advertisements.
 
-Key fields:
+Fields include:
 
 event_id
 ad_id
@@ -88,28 +88,19 @@ gender
 age_group
 country
 interests
-
-
 🔗 Table Relationships
-campaigns
-    │
-    │
-ads
-    │
-    │
-ad_events
-    │
-    │
-users
-Relationship Logic
-ad_events.ad_id → ads.ad_id
-ads.campaign_id → campaigns.campaign_id
-ad_events.user_id → users.user_id
 
-This model enables multi-dimensional analysis across campaigns, audiences, and ad creatives.
+The tables are connected using the following relationships:
 
+campaigns.campaign_id → ads.campaign_id
 
-📈 Key KPIs
+ads.ad_id → ad_events.ad_id
+
+users.user_id → ad_events.user_id
+
+This data model enables multi-dimensional analysis across campaigns, audiences, and ad creatives.
+
+📊 Key KPIs
 
 The dashboard tracks performance using marketing funnel metrics.
 
@@ -154,8 +145,8 @@ Ad Format Performance
 
 Best performing formats:
 
-1️⃣ Video Ads
-2️⃣ Story Ads
+Video Ads
+Story Ads
 
 Carousel and Image ads show slightly lower conversion performance.
 
@@ -182,12 +173,11 @@ Early morning (0–5 AM)
 
 Based on the analysis:
 
-✔ Allocate more budget to Video and Story ads
-✔ Focus campaigns on female users aged 18–30
-✔ Schedule ads during afternoon and evening hours
-✔ Improve landing pages and retargeting strategies to increase conversions
-✔ Prioritize high-engagement markets like India and the US
-
+Allocate more budget to Video and Story ads
+Focus campaigns on female users aged 18–30
+Schedule ads during afternoon and evening hours
+Improve landing pages and retargeting strategies
+Prioritize high-engagement markets such as India and the US
 🛠 Tools & Technologies
 Tool	Purpose
 Power BI	Dashboard development and visualization
@@ -197,25 +187,25 @@ DAX	KPI calculations
 Data Modeling	Star schema design
 📁 Repository Structure
 Meta-Ad-Performance-Analysis
-│
-├── datasets
-│   ├── ad_events.csv
-│   ├── ads.csv
-│   ├── campaigns.csv
-│   └── users.csv
-│
-├── documentation
-│   ├── Business Requirements Document
-│   ├── Domain Knowledge Document
-│   └── Dashboard Insights
-│
-├── dashboard
-│   └── Power BI file
-│
-├── presentation
-│   └── Project Presentation PPT
-│
-└── README.md
+
+datasets
+ ├── ad_events.csv
+ ├── ads.csv
+ ├── campaigns.csv
+ └── users.csv
+
+documentation
+ ├── Business Requirements Document
+ ├── Domain Knowledge Document
+ └── Dashboard Insights
+
+dashboard
+ └── Power BI Dashboard File
+
+presentation
+ └── Project Presentation PPT
+
+README.md
 🚀 Key Learning Outcomes
 
 This project strengthened my ability to:
@@ -231,13 +221,14 @@ Pranay Shrivastava
 
 Aspiring Data Analyst | Business Analytics Enthusiast
 
-Skilled in:
+Skills:
 
 Power BI
 SQL
 Excel
 Data Modeling
 Business Analytics
+
 ⭐ If you found this project useful
 
 Feel free to star the repository or connect with me on LinkedIn to discuss analytics, dashboards, and data-driven decision making.
