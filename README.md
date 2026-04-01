@@ -27,18 +27,7 @@ Budget utilization and ROI
 
 Without analytics, decision-making relied mostly on intuition rather than data.
 
-🎯 Business Goals
-
-The analysis focuses on enabling stakeholders to:
-
-✔ Understand campaign performance across Facebook and Instagram
-✔ Identify high-performing audiences and ad formats
-✔ Detect conversion drop-offs across the funnel
-✔ Optimize budget allocation and targeting strategies
-
-🗂 Dataset Overview
-
-The dataset simulates Meta Ads performance data, similar to how Facebook Ads Manager stores campaign interactions.
+<img width="845" height="666" alt="Screenshot 2026-04-01 172718" src="https://github.com/user-attachments/assets/c39293db-29f2-4e9b-ba6d-7e8df3a53cfe" />
 
 Data Sources
 Table	Description
@@ -215,6 +204,7 @@ Build scalable data models
 Perform funnel-based marketing analytics
 Generate actionable business insights
 Communicate insights through interactive dashboards
+
 👨‍💻 Author
 
 Pranay Shrivastava
