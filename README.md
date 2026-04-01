@@ -27,20 +27,27 @@ Budget utilization and ROI
 
 Without analytics, decision-making relied mostly on intuition rather than data.
 
+<p align="center">
 <img width="845" height="666" alt="Screenshot 2026-04-01 172718" src="https://github.com/user-attachments/assets/c39293db-29f2-4e9b-ba6d-7e8df3a53cfe" />
-
+</p>
+<p align="center">
 <img width="648" height="847" alt="Screenshot 2026-04-01 172743" src="https://github.com/user-attachments/assets/8f27ee33-d337-402d-bc26-20b516f3d6d4" />
-
+</p>
+<p align="center">
 <img width="161" height="173" alt="Screenshot 2026-04-01 172935" src="https://github.com/user-attachments/assets/5228c15e-fa15-467e-9e37-3b36f4f73cec" />
-
+</p>
+<p align="center">
 <img width="439" height="479" alt="Screenshot 2026-04-01 173005" src="https://github.com/user-attachments/assets/cead7f7d-0116-4c79-b88a-d77d9e871080" />
-
+</p>
+<p align="center">
 <img width="348" height="819" alt="Screenshot 2026-04-01 173042" src="https://github.com/user-attachments/assets/545d1a70-8824-4fbf-9b82-d7968e37833f" />
-
+</p>
+<p align="center">
 <img width="400" height="512" alt="Screenshot 2026-04-01 173119" src="https://github.com/user-attachments/assets/e658c222-5aaa-48bf-8eaf-b3b308758d28" />
-
+</p>
+<p align="center">
 <img width="439" height="471" alt="Screenshot 2026-04-01 173155" src="https://github.com/user-attachments/assets/37680acb-3400-4dba-8161-5c02da2c8f2b" />
-
+</p>
 
 👨‍💻 Author
 
