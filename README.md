@@ -88,3 +88,156 @@ gender
 age_group
 country
 interests
+
+
+🔗 Table Relationships
+campaigns
+    │
+    │
+ads
+    │
+    │
+ad_events
+    │
+    │
+users
+Relationship Logic
+ad_events.ad_id → ads.ad_id
+ads.campaign_id → campaigns.campaign_id
+ad_events.user_id → users.user_id
+
+This model enables multi-dimensional analysis across campaigns, audiences, and ad creatives.
+
+
+📈 Key KPIs
+
+The dashboard tracks performance using marketing funnel metrics.
+
+KPI	Description
+Impressions	Number of times ads were shown
+Clicks	Number of user clicks
+Engagements	Clicks + Shares + Comments
+Purchases	Completed conversions
+CTR	Clicks ÷ Impressions
+Engagement Rate	Engagements ÷ Impressions
+Conversion Rate	Purchases ÷ Clicks
+Purchase Rate	Purchases ÷ Impressions
+Total Budget	Total campaign spend
+Avg Budget per Campaign	Budget allocation efficiency
+📊 Dashboard Visualizations
+
+The Power BI dashboard includes multiple analytical views.
+
+Audience Insights
+Gender Distribution (Donut Chart)
+Age Group Engagement (Bar Chart)
+Geographic Insights
+Country Performance Map
+Time-Based Analysis
+Calendar Heat Map (Monthly trends)
+Weekly Performance Trend
+Hourly Engagement Pattern
+Creative Performance
+Ad Type Performance Matrix
+📈 Key Insights
+Funnel Performance
+216K Impressions
+25.4K Clicks
+1.3K Purchases
+
+Strong reach and engagement but conversion efficiency is low.
+
+Audience Insights
+Females generate the highest engagement
+Age group 18–30 dominates campaign interaction
+Ad Format Performance
+
+Best performing formats:
+
+1️⃣ Video Ads
+2️⃣ Story Ads
+
+Carousel and Image ads show slightly lower conversion performance.
+
+Geographic Insights
+
+Top engagement regions:
+
+India
+United States
+Brazil
+Germany
+United Kingdom
+Time-Based Insights
+
+Peak engagement occurs during:
+
+Afternoon and Evening hours
+
+Lowest engagement occurs during:
+
+Early morning (0–5 AM)
+
+💡 Business Recommendations
+
+Based on the analysis:
+
+✔ Allocate more budget to Video and Story ads
+✔ Focus campaigns on female users aged 18–30
+✔ Schedule ads during afternoon and evening hours
+✔ Improve landing pages and retargeting strategies to increase conversions
+✔ Prioritize high-engagement markets like India and the US
+
+🛠 Tools & Technologies
+Tool	Purpose
+Power BI	Dashboard development and visualization
+Excel	Data exploration and preparation
+SQL	Data querying and transformation
+DAX	KPI calculations
+Data Modeling	Star schema design
+📁 Repository Structure
+Meta-Ad-Performance-Analysis
+│
+├── datasets
+│   ├── ad_events.csv
+│   ├── ads.csv
+│   ├── campaigns.csv
+│   └── users.csv
+│
+├── documentation
+│   ├── Business Requirements Document
+│   ├── Domain Knowledge Document
+│   └── Dashboard Insights
+│
+├── dashboard
+│   └── Power BI file
+│
+├── presentation
+│   └── Project Presentation PPT
+│
+└── README.md
+🚀 Key Learning Outcomes
+
+This project strengthened my ability to:
+
+Translate business requirements into KPIs
+Build scalable data models
+Perform funnel-based marketing analytics
+Generate actionable business insights
+Communicate insights through interactive dashboards
+👨‍💻 Author
+
+Pranay Shrivastava
+
+Aspiring Data Analyst | Business Analytics Enthusiast
+
+Skilled in:
+
+Power BI
+SQL
+Excel
+Data Modeling
+Business Analytics
+⭐ If you found this project useful
+
+Feel free to star the repository or connect with me on LinkedIn to discuss analytics, dashboards, and data-driven decision making.
